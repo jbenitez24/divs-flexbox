@@ -126,6 +126,7 @@ body {
   height: 300px;
   width: 30%;
   display: flex;
+  flex-flow: wrap;
   justify-content: center;
   align-items: left;
 }
